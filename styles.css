@@ -1,0 +1,52 @@
+body {
+    text-align:center;
+}
+
+.container {
+   background-image: url("https://media.pitchfork.com/photos/5b60babf3392ca3ddc42cb3a/2:1/w_790/Travis%20Scott%206.png");
+   background-color: #cccccc;
+  background-position: center;  
+  height:200px;
+}
+
+.button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+img {
+     height:150px;
+}
+
+.conatiner3 {
+    display:flex;
+    justify-content:space-between;
+}
+
+.container2 {
+   background-image: url("https://pmcvariety.files.wordpress.com/2018/08/travis-scott.jpg?w=998&h=563&crop=1");
+   background-color: #cccccc;
+  background-position: center;  
+  height:200px;
+}
+
+.container2 {
+    color:yellow;
+}
+
+.container4 {
+   background-image: url("https://cdn.albumoftheyear.org/album/2018/109840-watch.jpg");
+   background-color: #cccccc;
+  background-position: center;  
+  height:200px;
+}
+
+.container4 {
+    color:yellow;
+}
